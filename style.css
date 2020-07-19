@@ -1,0 +1,33 @@
+p {
+  display: none;
+  text-align: center;
+}
+
+
+.title {
+  text-align: center;
+}
+
+
+
+
+
+.kotei1 {
+  background-image: url(file:///Users/kanazawamizuki/Desktop/EYdfaReU0AAfD9i.jpg);
+}
+.ugoku1 {
+  background-color: #F08080;
+  padding: 100px;
+}
+.kotei2 {
+  background-image: url(/Users/kanazawamizuki/Desktop/Ec91NPJUMAAGNVf.jpg);
+}
+.ugoku2 {
+  background-color: #F08080;
+  padding: 100px;
+}
+.fixed-bg {
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
